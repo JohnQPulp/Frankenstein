@@ -1,0 +1,16 @@
+{
+  "title": "Frankenstein; or, The Modern Prometheus",
+  "shortTitle": "Frankenstein",
+  "author": "Mary Shelley",
+  "year": 1831,
+  "source": "https://standardebooks.org/ebooks/mary-shelley/frankenstein",
+  "words": 75314,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/Frankenstein",
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/18490.Frankenstein",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Frankenstein"
+  },
+  "blurb": "foo",
+  "blurb2": ""
+}
