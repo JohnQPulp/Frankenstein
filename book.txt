@@ -28,13 +28,9 @@ I shall depart for the latter town in a fortnight or three weeks; and my intenti
 
 Farewell, my dear, excellent Margaret. Heaven shower down blessings on you, and save me, that I may again and again testify my gratitude for all your love and kindness.
 
-<footer role="presentation">
-
 Your affectionate brother,
 
 R. Walton.
-
-</footer>
 
 ## Letter II
 
@@ -56,13 +52,9 @@ I cannot describe to you my sensations on the near prospect of my undertaking. I
 
 But to return to dearer considerations. Shall I meet you again, after having traversed immense seas, and returned by the most southern cape of Africa or America? I dare not expect such success, yet I cannot bear to look on the reverse of the picture. Continue for the present to write to me by every opportunity: I may receive your letters on some occasions when I need them most to support my spirits. I love you very tenderly. Remember me with affection, should you never hear from me again.
 
-<footer role="presentation">
-
 Your affectionate brother,
 
 Robert Walton.
-
-</footer>
 
 ## Letter III
 
@@ -80,13 +72,9 @@ But success *shall* crown my endeavours. Wherefore not? Thus far I have gone, tr
 
 My swelling heart involuntarily pours itself out thus. But I must finish. Heaven bless my beloved sister!
 
-<footer role="presentation">
-
 Most affectionately yours,
 
 R. W.
-
-</footer>
 
 ## Letter IV
 
@@ -316,12 +304,17 @@ Morning, dismal and wet, at length dawned, and discovered to my sleepless and ac
 
 I continued walking in this manner for some time, endeavouring, by bodily exercise, to ease the load that weighed upon my mind. I traversed the streets, without any clear conception of where I was, or what I was doing. My heart palpitated in the sickness of fear; and I hurried on with irregular steps, not daring to look about me:﻿—
 
-“Like one who, on a lonely road,  
-Doth walk in fear and dread,  
-And, having once turned round, walks on,  
-And turns no more his head;  
-Because he knows a frightful fiend  
-Doth close behind him tread.”[1](#endnotes.xhtml#note-1)
+“Like one who, on a lonely road,
+
+Doth walk in fear and dread,
+
+And, having once turned round, walks on,
+
+And turns no more his head;
+
+Because he knows a frightful fiend
+
+Doth close behind him tread.”
 
 Continuing thus, I came at length opposite to the inn at which the various diligences and carriages usually stopped. Here I paused, I knew not why; but I remained some minutes with my eyes fixed on a coach that was coming towards me from the other end of the street. As it drew nearer, I observed that it was the Swiss diligence: it stopped just where I was standing; and, on the door being opened, I perceived Henry Clerval, who, on seeing me, instantly sprung out. “My dear Frankenstein,” exclaimed he, “how glad I am to see you! how fortunate that you should be here at the very moment of my alighting!”
 
@@ -385,13 +378,9 @@ Clerval then put the following letter into my hands. It was from my own Elizabet
 
 “I have written myself into better spirits, dear cousin; but my anxiety returns upon me as I conclude. Write, dearest Victor﻿—one line﻿—one word will be a blessing to us. Ten thousand thanks to Henry for his kindness, his affection, and his many letters: we are sincerely grateful. Adieu! my cousin; take care of yourself; and, I entreat you, write!
 
-<footer role="presentation">
-
 “Elizabeth Lavenza.
 
 “Geneva, March 18th, 17﻿—.”
-
-</footer>
 
 “Dear, dear Elizabeth!” I exclaimed, when I had read her letter, “I will write instantly, and relieve them from the anxiety they must feel.” I wrote, and this exertion greatly fatigued me; but my convalescence had commenced, and proceeded regularly. In another fortnight I was able to leave my chamber.
 
@@ -437,15 +426,11 @@ On my return, I found the following letter from my father:﻿—
 
 “Come, Victor; not brooding thoughts of vengeance against the assassin, but with feelings of peace and gentleness, that will heal, instead of festering, the wounds of our minds. Enter the house of mourning, my friend, but with kindness and affection for those who love you, and not with hatred for your enemies.
 
-<footer role="presentation">
-
 “Your affectionate and afflicted father,
 
 “Alphonse Frankenstein.
 
 “Geneva, May 12th, 17﻿—.”
-
-</footer>
 
 Clerval, who had watched my countenance as I read this letter, was surprised to observe the despair that succeeded to the joy I at first expressed on receiving news from my friends. I threw the letter on the table, and covered my face with my hands.
 
@@ -631,13 +616,20 @@ Where had they fled when the next morning I awoke? All of soul-inspiriting fled 
 
 The ascent is precipitous, but the path is cut into continual and short windings, which enable you to surmount the perpendicularity of the mountain. It is a scene terrifically desolate. In a thousand spots the traces of the winter avalanche may be perceived, where trees lie broken and strewed on the ground; some entirely destroyed, others bent, leaning upon the jutting rocks of the mountain, or transversely upon other trees. The path, as you ascend higher, is intersected by ravines of snow, down which stones continually roll from above; one of them is particularly dangerous, as the slightest sound, such as even speaking in a loud voice, produces a concussion of air sufficient to draw destruction upon the head of the speaker. The pines are not tall or luxuriant, but they are sombre, and add an air of severity to the scene. I looked on the valley beneath; vast mists were rising from the rivers which ran through it, and curling in thick wreaths around the opposite mountains, whose summits were hid in the uniform clouds, while rain poured from the dark sky, and added to the melancholy impression I received from the objects around me. Alas! why does man boast of sensibilities superior to those apparent in the brute; it only renders them more necessary beings. If our impulses were confined to hunger, thirst, and desire, we might be nearly free; but now we are moved by every wind that blows, and a chance word or scene that that word may convey to us.
 
-We rest; a dream has power to poison sleep.  
-We rise; one wand’ring thought pollutes the day.  
-We feel, conceive, or reason; laugh or weep,  
-Embrace fond woe, or cast our cares away;  
-It is the same: for, be it joy or sorrow,  
-The path of its departure still is free.  
-Man’s yesterday may ne’er be like his morrow;  
+We rest; a dream has power to poison sleep.
+
+We rise; one wand’ring thought pollutes the day.
+
+We feel, conceive, or reason; laugh or weep,
+
+Embrace fond woe, or cast our cares away;
+
+It is the same: for, be it joy or sorrow,
+
+The path of its departure still is free.
+
+Man’s yesterday may ne’er be like his morrow;
+
 Nought may endure but mutability!
 
 It was nearly noon when I arrived at the top of the ascent. For some time I sat upon the rock that overlooks the sea of ice. A mist covered both that and the surrounding mountains. Presently a breeze dissipated the cloud, and I descended upon the glacier. The surface is very uneven, rising like the waves of a troubled sea, descending low, and interspersed by rifts that sink deep. The field of ice is almost a league in width, but I spent nearly two hours in crossing it. The opposite mountain is a bare perpendicular rock. From the side where I now stood Montanvert was exactly opposite, at the distance of a league; and above it rose Mont Blanc, in awful majesty. I remained in a recess of the rock, gazing on this wonderful and stupendous scene. The sea, or rather the vast river of ice, wound among its dependent mountains, whose aerial summits hung over its recesses. Their icy and glittering peaks shone in the sunlight over the clouds. My heart, which was before sorrowful, now swelled with something like joy; I exclaimed, “Wandering spirits, if indeed ye wander, and do not rest in your narrow beds, allow me this faint happiness, or take me, as your companion, away from the joys of life.”
@@ -672,7 +664,7 @@ As he said this, he led the way across the ice: I followed. My heart was full, a
 
 “It was dark when I awoke; I felt cold also, and half-frightened, as it were instinctively, finding myself so desolate. Before I had quitted your apartment, on a sensation of cold, I had covered myself with some clothes; but these were insufficient to secure me from the dews of night. I was a poor, helpless, miserable wretch; I knew, and could distinguish, nothing; but feeling pain invade me on all sides, I sat down and wept.
 
-“Soon a gentle light stole over the heavens, and gave me a sensation of pleasure. I started up, and beheld a radiant form rise from among the trees.[2](#endnotes.xhtml#note-2) I gazed with a kind of wonder. It moved slowly, but it enlightened my path; and I again went out in search of berries. I was still cold, when under one of the trees I found a huge cloak, with which I covered myself, and sat down upon the ground. No distinct ideas occupied my mind; all was confused. I felt light, and hunger, and thirst, and darkness; innumerable sounds rung in my ears, and on all sides various scents saluted me: the only object that I could distinguish was the bright moon, and I fixed my eyes on that with pleasure.
+“Soon a gentle light stole over the heavens, and gave me a sensation of pleasure. I started up, and beheld a radiant form rise from among the trees. I gazed with a kind of wonder. It moved slowly, but it enlightened my path; and I again went out in search of berries. I was still cold, when under one of the trees I found a huge cloak, with which I covered myself, and sat down upon the ground. No distinct ideas occupied my mind; all was confused. I felt light, and hunger, and thirst, and darkness; innumerable sounds rung in my ears, and on all sides various scents saluted me: the only object that I could distinguish was the bright moon, and I fixed my eyes on that with pleasure.
 
 “Several changes of day and night passed, and the orb of night had greatly lessened, when I began to distinguish my sensations from each other. I gradually saw plainly the clear stream that supplied me with drink, and the trees that shaded me with their foliage. I was delighted when I first discovered that a pleasant sound, which often saluted my ears, proceeded from the throats of the little winged animals who had often intercepted the light from my eyes. I began also to observe, with greater accuracy, the forms that surrounded me, and to perceive the boundaries of the radiant roof of light which canopied me. Sometimes I tried to imitate the pleasant songs of the birds, but was unable. Sometimes I wished to express my sensations in my own mode, but the uncouth and inarticulate sounds which broke from me frightened me into silence again.
 
@@ -1072,14 +1064,21 @@ We travelled at the time of the vintage, and heard the song of the labourers, as
 
 Clerval! beloved friend! even now it delights me to record your words, and to dwell on the praise of which you are so eminently deserving. He was a being formed in the “very poetry of nature.” His wild and enthusiastic imagination was chastened by the sensibility of his heart. His soul overflowed with ardent affections, and his friendship was of that devoted and wondrous nature that the worldly-minded teach us to look for only in the imagination. But even human sympathies were not sufficient to satisfy his eager mind. The scenery of external nature, which others regard only with admiration, he loved with ardour:﻿—
 
-“The sounding cataract  
-Haunted him like a passion: the tall rock,  
-The mountain, and the deep and gloomy wood,  
-Their colours and their forms, were then to him  
-An appetite; a feeling, and a love,  
-That had no need of a remoter charm,  
-By thought supplied, or any interest  
-Unborrow’d from the eye”[3](#endnotes.xhtml#note-3)
+“The sounding cataract
+
+Haunted him like a passion: the tall rock,
+
+The mountain, and the deep and gloomy wood,
+
+Their colours and their forms, were then to him
+
+An appetite; a feeling, and a love,
+
+That had no need of a remoter charm,
+
+By thought supplied, or any interest
+
+Unborrow’d from the eye”
 
 And where does he now exist? Is this gentle and lovely being lost forever? Has this mind, so replete with ideas, imaginations fanciful and magnificent, which formed a world, whose existence depended on the life of its creator;﻿—has this mind perished? Does it now only exist in my memory? No, it is not thus; your form so divinely wrought, and beaming with beauty, has decayed, but your spirit still visits and consoles your unhappy friend.
 
@@ -1349,13 +1348,9 @@ A few days before we left Paris on our way to Switzerland, I received the follow
 
 “Do not let this letter disturb you; do not answer tomorrow, or the next day, or even until you come, if it will give you pain. My uncle will send me news of your health; and if I see but one smile on your lips when we meet, occasioned by this or any other exertion of mine, I shall need no other happiness.
 
-<footer role="presentation">
-
 “Elizabeth Lavenza.
 
 “Geneva, May 18th, 17﻿—.”
-
-</footer>
 
 This letter revived in my memory what I had before forgotten, the threat of the fiend﻿—“*I will be with you on your wedding night!*” Such was my sentence, and on that night would the daemon employ every art to destroy me, and tear me from the glimpse of happiness which promised partly to console my sufferings. On that night he had determined to consummate his crimes by my death. Well, be it so; a deadly struggle would then assuredly take place, in which if he were victorious I should be at peace, and his power over me be at an end. If he were vanquished, I should be a free man. Alas! what freedom? such as the peasant enjoys when his family have been massacred before his eyes, his cottage burnt, his lands laid waste, and he is turned adrift, homeless, penniless, and alone, but free. Such would be my liberty, except that in my Elizabeth I possessed a treasure; alas! balanced by those horrors of remorse and guilt, which would pursue me until death.
 
@@ -1599,7 +1594,7 @@ Margaret, what comment can I make on the untimely extinction of this glorious sp
 
 I am interrupted. What do these sounds portend? It is midnight; the breeze blows fairly, and the watch on deck scarcely stir. Again; there is a sound as of a human voice, but hoarser; it comes from the cabin where the remains of Frankenstein still lie. I must arise, and examine. Good night, my sister.
 
-------------------------------------------------------------------------
+—
 
 Great God! what a scene has just taken place! I am yet dizzy with the remembrance of it. I hardly know whether I shall have the power to detail it; yet the tale which I have recorded would be incomplete without this final and wonderful catastrophe.
 
