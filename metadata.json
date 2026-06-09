@@ -7,10 +7,9 @@
   "words": 75314,
   "pulpDate": null,
   "repo": "https://github.com/JohnQPulp/Frankenstein",
-  "links": {
-    "Goodreads": "https://www.goodreads.com/book/show/18490.Frankenstein",
-    "Wikipedia": "https://en.wikipedia.org/wiki/Frankenstein"
-  },
+  "wikipedia": "https://en.wikipedia.org/wiki/Frankenstein",
   "blurb": "foo",
-  "blurb2": ""
+  "blurb2": "",
+  "useAvif": true,
+  "authorWidth": null
 }
